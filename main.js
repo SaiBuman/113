@@ -9,7 +9,7 @@ function setup() {
 }
 
 function draw() {
-  image(video, 80, 80, 350,250);
+  image(video, 75, 75, 350,250);
   fill("red");
   circle(50,50,100);
   fill("green");
