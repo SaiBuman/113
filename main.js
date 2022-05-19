@@ -28,7 +28,7 @@ function draw() {
   circle(450,350,100);
 }
 
-function take_snapshot(){    
+function takeSnapshot(){    
   save('student_name.png');
 }
 
